@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CV</title>
+</head>
+<body>
+	<h1>Curriculum Vitae</h1>
+		<table cellspacing="0" cellpadding="5" border="0">
+		<tr>
+			<td>Nama</td>
+			<td>: Almas Fa'iq Khairul Ikhwan</td>
+		</tr>
+		<tr>
+			<td>Tempat, Tanggal Lahir</td>
+			<td>: Cilacap, 8 November 2002</td>
+		</tr>
+		<tr>
+			<td>Agama</td>
+			<td>: Islam</td>
+		</tr>
+		<tr>
+			<td>Warga Negara</td>
+			<td>: Indonesia</td>
+		</tr>
+		<tr>
+			<td>Almat</td>
+			<td>: Jl. Sawah Contoh RT 03/02 Karangasem, Sampang, Cilacap</td>
+		</tr>
+		<tr>
+			<td>E-mail</td>
+			<td><b>: almasfaiqkh@gmail.com</b></td>
+		</tr>
+	</table>
+	<p>
+		<b><u>Kompetensi Keahlian yang dimiliki</u></b><br>
+		- HTML<br>
+		- CSS<br>
+		- PHP<br>
+		- C#<br>
+		- Java<br>
+
+		<br><b><u>Pendidikan Formal</u></b><br>
+		1. TK Nusa Indah<br>
+		2. SDN 1 Karangasem<br>
+		3. SMPN 1 Sampang<br>
+		4. Masih menjadi siswa SMK Telkom Purwokerto<br>
+
+		<br><b><u>Pendidikan Non Formal</u></b><br>
+		-<br>
+
+		<br><i>Demikian Curriculum Vitae ini saya buat dengan Sebenar-benarnya <br>untuk dapat dipergunakan</i><br>
+
+		<br>Hormat Saya,<br>
+
+		<br><b><u>Almas Fa'iq Khairul Ikhwan</u></b>
+	</p>
+</body>
+</html>
